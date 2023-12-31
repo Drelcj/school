@@ -9,9 +9,14 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@clerk/nextjs": "^4.29.1",
+    "encoding": "^0.1.13",
+    "graphql": "^16.8.1",
+    "graphql-request": "^6.1.0",
+    "lucide-react": "^0.303.0",
+    "next": "^13.5.6",
     "react": "^18",
-    "react-dom": "^18",
-    "next": "14.0.4"
+    "react-dom": "^18"
   },
   "devDependencies": {
     "autoprefixer": "^10.0.1",
